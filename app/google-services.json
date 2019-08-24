@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060825120877",
+    "firebase_url": "https://chatyapp-2a438.firebaseio.com",
+    "project_id": "chatyapp-2a438",
+    "storage_bucket": "chatyapp-2a438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060825120877:android:a3b284cf83100bdb",
+        "android_client_info": {
+          "package_name": "com.mani.chatyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060825120877-u7o141p7bh3aa7c4jqa0h6rpbq3caoqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mani.chatyapp",
+            "certificate_hash": "c330a061edb8dad1bfc6f21b2a1a4913d6baf257"
+          }
+        },
+        {
+          "client_id": "1060825120877-omqmks1haktc92mj67u4nutnkd0ga8pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAErqAHwLOmKv_6si40w9sFURKGCX5mSSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060825120877-omqmks1haktc92mj67u4nutnkd0ga8pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
